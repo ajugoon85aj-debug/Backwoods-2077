@@ -4,6 +4,7 @@
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.1-green)](https://minecraft.net)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.8-green)](https://minecraft.net)
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-26.1.2-green)](https://minecraft.net)
 [![Loader](https://img.shields.io/badge/Loader-NeoForge-orange)](https://neoforged.net)
 
 
